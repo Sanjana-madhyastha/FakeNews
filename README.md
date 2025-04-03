@@ -55,8 +55,8 @@ The model was trained on a dataset containing **real and fake news articles** co
 - Integrate fact-checking APIs for enhanced detection.
 - Deploy the model on cloud platforms for wider accessibility.
 
-## License
-This project is open-source and available under the **MIT License**.
+## License  
+This project is released **without a license**. Feel free to use, modify, and distribute the code as you wish. No warranties or liabilities are provided.  
 
 ## Contributors
 Developed by **Sanjana**.
